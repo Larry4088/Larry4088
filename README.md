@@ -1,4 +1,11 @@
 ## Hi there 👋
+I'm a beginner data engineer documenting my journey.
+
+
+##⚡About Me.
+- Currently learning Data Engineering @Luxdev
+- Interested in Python , SQL and Data Pipeleines
+- Building real world projects
 
 <!--
 **Larry4088/Larry4088** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
